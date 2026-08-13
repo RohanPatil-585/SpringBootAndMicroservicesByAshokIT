@@ -1,8 +1,0 @@
-
-This app is created by using CLI by using below command.
-
-mvn archetype:generate -DgroupId=com.rohan.app
-                       -DartifactId=my-app
-                       -DarchetypeArtifactId=maven-archetype-quickstart
-                       -DarchetypeVersion=1.5
-                       -DinteractiveMode=false
